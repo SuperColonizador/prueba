@@ -31,8 +31,9 @@ namespace WindowsFormsApp2
 
         private void button3_Click(object sender, EventArgs e)
         {
-            FrmBoton3 frm = new FrmBoton3();
-            frm.Show();
+            //FrmBoton3 frm = new FrmBoton3();
+            //frm.Show();
+           // PRUEBA COMENTARIO
         }
     }
 }
